@@ -4,7 +4,7 @@
 
 ![锦云(JinYun)](https://i.eoht.net/airport/jinyun_logo.webp)
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/jinyun) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/jinyun) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 锦云(JinYun) 采用**海外中转节点与 VLESS 协议**，服务介绍包含**三网优化线路**，面向日常海外网站访问、流媒体观影和 AI 工具使用。月付从 **¥6、50GB/月**起，另有季付、年付特惠、Pro 套餐及不限时流量包，并提供通用订阅。
 
